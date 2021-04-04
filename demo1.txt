@@ -1,1 +1,2 @@
 this is simple program
+this is another text
